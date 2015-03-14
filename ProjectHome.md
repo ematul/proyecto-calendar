@@ -1,0 +1,1 @@
+Aplicación para dispositivos Android con la capacidad de gestionar Tareas y Notas estudiantiles.
